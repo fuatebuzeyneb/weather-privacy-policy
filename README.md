@@ -1,6 +1,7 @@
 # Privacy Policy
 
 Weather App takes your privacy seriously. To better protect your privacy WE provide this privacy policy notice explaining the way your personal information is collected and used.
+By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
 
 ## Collection of Routine Information
@@ -15,7 +16,9 @@ this app not uses cookies to store information about a visitor’s preferences a
 
 ## Advertisement and Other Third Parties
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. 
+Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this app to display advertisements and other useful information. Such tracking is done directly by the third parties through their servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts, and/or web beacons that may be used by third parties.
+
+Weather data is provided by [WeatherAPI.com](https://www.weatherapi.com/privacy.aspx), which has its own privacy policy detailing their data collection and use practices. Please review their privacy policy to understand how they handle your information.
 
 
 ## Security
